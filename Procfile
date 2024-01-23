@@ -1,1 +1,0 @@
-web: gunicorn sim_bos:bos_web
